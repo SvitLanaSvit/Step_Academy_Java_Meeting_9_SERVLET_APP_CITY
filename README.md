@@ -1,0 +1,2 @@
+# Step_Academy_Java_Meeting_9_SERVLET_APP_CITY
+[JAVA_Practice_Module_10_part_2_Ua.pdf](https://github.com/SvitLanaSvit/Step_Academy_Java_Meeting_9_SERVLET_APP_CITY/blob/main/assets/JAVA_Practice_Module_10_part_2_Ua.pdf)
